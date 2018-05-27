@@ -5,7 +5,7 @@ Golang Cron
 
 > The reference documentation is found at https://en.wikipedia.org/wiki/Cron#CRON_expression
 
-    Field name     Mandatory?   Allowed values    Allowed special characters
+    Field name     Mandatory   Allowed values    Allowed special characters
     ----------     ----------   --------------    --------------------------
     Seconds        No           0-59              * / , -
     Minutes        Yes          0-59              * / , -
