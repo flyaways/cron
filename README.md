@@ -1,16 +1,6 @@
 Golang Cron
 =============================
 
-<!-- TOC -->
-
-- [Cron Expression](#cron-expression)
-- [Install](#install)
-- [Usage](#usage)
-- [Reference](#reference)
-- [License](#license)
-
-<!-- /TOC -->
-
 ## Cron Expression
 
 > The reference documentation is found at https://en.wikipedia.org/wiki/Cron#CRON_expression
