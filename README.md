@@ -1,5 +1,9 @@
-Golang Cron
-=============================
+# Golang Cron
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/flyaways/cron?style=flat-square)](https://goreportcard.com/report/github.com/flyaways/cron)
+[![Build Status Travis](https://travis-ci.org/flyaways/cron.svg?branch=master)](https://travis-ci.org/flyaways/cron)
+[![Build Status Semaphore](https://semaphoreci.com/api/v1/flyaways/cron/branches/master/shields_badge.svg)](https://semaphoreci.com/flyaways/cron)
+[![LICENSE](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat-square)](https://github.com/flyaways/cron/blob/master/LICENSE)
 
 ## Cron Expression
 
