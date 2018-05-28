@@ -84,3 +84,5 @@ func main() {
 ## License
 
 * [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fflyaways%2Fcron.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fflyaways%2Fcron?ref=badge_large)
