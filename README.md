@@ -2,6 +2,8 @@ Golang Cron
 =============================
 
 ## Cron Expression
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fflyaways%2Fcron.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fflyaways%2Fcron?ref=badge_shield)
+
 
 > The reference documentation is found at https://en.wikipedia.org/wiki/Cron#CRON_expression
 
@@ -84,3 +86,6 @@ func main() {
 ## License
 
 * [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fflyaways%2Fcron.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fflyaways%2Fcron?ref=badge_large)
