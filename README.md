@@ -1,5 +1,9 @@
-Golang Cron
-=============================
+# Golang Cron
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/flyaways/cron?style=flat-square)](https://goreportcard.com/report/github.com/flyaways/cron)
+[![Build Status Travis](https://travis-ci.org/flyaways/cron.svg?branch=master)](https://travis-ci.org/flyaways/cron)
+[![Build Status Semaphore](https://semaphoreci.com/api/v1/flyaways/cron/branches/master/shields_badge.svg)](https://semaphoreci.com/flyaways/cron)
+[![LICENSE](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat-square)](https://github.com/flyaways/cron/blob/master/LICENSE)
 
 ## Cron Expression
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fflyaways%2Fcron.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fflyaways%2Fcron?ref=badge_shield)
@@ -87,5 +91,5 @@ func main() {
 
 * [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fflyaways%2Fcron.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fflyaways%2Fcron?ref=badge_large)
+ 
