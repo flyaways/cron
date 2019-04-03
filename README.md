@@ -6,6 +6,8 @@
 [![LICENSE](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat-square)](https://github.com/flyaways/cron/blob/master/LICENSE)
 
 ## Cron Expression
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fflyaways%2Fcron.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fflyaways%2Fcron?ref=badge_shield)
+
 
 > The reference documentation is found at https://en.wikipedia.org/wiki/Cron#CRON_expression
 
@@ -89,4 +91,5 @@ func main() {
 
 * [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fflyaways%2Fcron.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fflyaways%2Fcron?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fflyaways%2Fcron.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fflyaways%2Fcron?ref=badge_large)
+ 
